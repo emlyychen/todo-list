@@ -32,7 +32,16 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.list-container {
+  margin-left: 1rem;
+}
+
+#create-task-form {
+  margin-top: 1rem;
 }
