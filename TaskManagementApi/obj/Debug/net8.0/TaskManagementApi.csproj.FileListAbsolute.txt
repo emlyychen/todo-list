@@ -157,3 +157,4 @@
 /Users/emilychen/Documents/todo-list/TaskManagementApi/obj/Debug/net8.0/TaskManagementApi.pdb
 /Users/emilychen/Documents/todo-list/TaskManagementApi/obj/Debug/net8.0/TaskManagementApi.genruntimeconfig.cache
 /Users/emilychen/Documents/todo-list/TaskManagementApi/obj/Debug/net8.0/ref/TaskManagementApi.dll
+/Users/emilychen/Documents/todo-list/TaskManagementApi/obj/Debug/net8.0/TaskManagementApi.sourcelink.json
